@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER sekhar <sekhaargoratla@gmail.com>
+MAINTAINER sekhar <sekhargoratla@kudosfinance.in>
 
 WORKDIR /usr/apps/hello-docker/
 
